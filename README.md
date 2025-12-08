@@ -24,5 +24,3 @@ My focus is always on creating **impactful dashboards and data models** that:
 - Improve operational visibility  
 - Enhance overall business performance  
 
-### 📌 Projects:
-- 🏦 **Transaction Banking Report (Bank Analysis)** – Multi-page Power BI solution for analyzing transaction amounts, fees, customers, and revenue for a retail bank, with time-intelligence (YoY & 12-month moving average), customer segmentation, currency switching (EUR/USD), and an executive-ready design.
