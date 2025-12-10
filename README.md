@@ -1,26 +1,17 @@
 ## Hi there 👋
 
-I'm a **Microsoft Certified Power BI Data Analyst Associate** with over **8 years of experience in Business Intelligence**, helping organizations turn raw data into **actionable, strategic insights**.
+As a **Microsoft Certified Power BI Data Analyst Associate** with over 8 years of experience in business intelligence and data analytics, I work with data to support better decisions and improve business performance.
 
-### 🔍 What I do
-- Design and deliver **scalable BI solutions** for enterprise environments  
-- Transform complex datasets into **clear, decision-driven dashboards**  
-- Build robust **data models and semantic layers** to support analytics at scale  
+My background includes working across the full BI lifecycle **from data preparation and ETL processes to data modeling, visualization, and reporting**. I mainly work with Power BI, SQL Server, and Excel, and I enjoy turning complex datasets into dashboards that are easy to understand and useful for stakeholders.
 
-### 🛠 Technical Expertise
-- **BI & Visualization:** Power BI, SSRS, Tableau, QlikView  
-- **Data & Analytics:** SQL Server, Excel, ETL, Data Preparation  
-- **Modeling:** Star Schema, Semantic Models, Performance Optimization  
+Over the years, I’ve built a variety of Power BI reports and dashboards focused on delivering practical insights and aligning analytics with real business needs.
 
-### ☁️ Microsoft Fabric & Modern Analytics
-I build modern analytics solutions using **Microsoft Fabric**, leveraging:
-- Lakehouse architecture  
-- Data pipelines & ingestion workflows  
-- Unified tools for analytics from **data ingestion to reporting**  
+### Technical Expertise
 
-### 🎯 Focus
-My focus is always on creating **impactful dashboards and data models** that:
-- Support executive decision-making  
-- Improve operational visibility  
-- Enhance overall business performance  
+-	**Data Visualization:** Power BI, Tableau, QlikView, SSRS, Oracle APEX  
+-	**Data Modeling & Advanced Analytics:** DAX (Advanced), Semantic Modeling, Tabular Editor
+-	**Database & Cloud Technologies:** SQL (PostgreSQL, MySQL, Microsoft SQL Server), Oracle (PL/SQL), Microsoft Azure (Cloud Analytics), Microsoft Fabric (Lakehouse, Pipelines, Dataflows)
+-	**ETL & Data Integration:** SQL and Oracle (PL/SQL),
+-	**Data Security Tools:** Data Loss Prevention (DLP)
 
+**Here, you can explore some of my recent personal projects, where I showcase hands-on work in data modeling, analytics, and visualization.**
