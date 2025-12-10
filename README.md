@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 As a **Microsoft Certified Power BI Data Analyst Associate** with over 8 years of experience in business intelligence and data analytics, I work with data to support better decisions and improve business performance.
 
